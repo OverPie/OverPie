@@ -2,8 +2,6 @@
 
 **OverPie/OverPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [nodevk](https://github.com/OverPie/nodevk), Geometry Dash Private Server.
 - 🌱 I’m currently learning Deno.JS
 <!---
